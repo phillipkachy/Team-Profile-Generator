@@ -29,4 +29,6 @@ Testing:
 
 Run npm test to run tests.
 
-<img src="/C:\Users\phill\OneDrive\Desktop\projects\Team-Profile-Generator\assets\image\capture">
+
+![Capture](https://user-images.githubusercontent.com/98828210/181404115-3b1c9868-ddfe-470a-be5f-991fe1e352f3.JPG)
+
