@@ -28,3 +28,5 @@ THEN I exit the application, and the HTML is generated
 Testing:
 
 Run npm test to run tests.
+
+<img src="/C:\Users\phill\OneDrive\Desktop\projects\Team-Profile-Generator\assets\image\capture" alt="Alt text" title="Optional title">
